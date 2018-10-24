@@ -16,3 +16,10 @@
 
         </ul>
 @endsection
+
+
+@section('footer')
+
+{{--<script>alert('zaba');</script>--}}
+
+@stop
